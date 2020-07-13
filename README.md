@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, seja bem-vindo ao meu perfil no GitHub 💻
 
-<!--
-**GuilhermeMiguel/GuilhermeMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨 Sou desenvolver back-end Java e .Net. Trabalho atualmente com Spring Boot, Jsf, Asp Net Mvc e Asp Net Core. 👊👊👊👊
 
-Here are some ideas to get you started:
+🏃📚 Em busca de me tornar full stack estudo e desenvolvo pequenas aplicações React Js, Node e React Native. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em Análise e Desenvolvimento de Sistemas. Possuo também curso técnico em informática. 
+
+Se quiser entrar em contato:
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilherme-miguel-da-silva-503b89157)](https://br.linkedin.com/in/guilherme-miguel-da-silva-503b89157)
+[![Gmail Badge](https://img.shields.io/badge/-gui.miguel99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.miguel99@gmail.com)](mailto:gui.miguel99@gmail.com)
