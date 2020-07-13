@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu perfil no GitHub 💻
+### Seja bem-vindo ao meu perfil no GitHub 💻
 
 👨 Sou desenvolver back-end Java e .Net. Trabalho atualmente com Spring Boot, Jsf, Asp Net Mvc e Asp Net Core. 👊👊👊👊
 
